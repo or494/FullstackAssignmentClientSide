@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+  .extra-table-column {
+    display: none;
+  }
+}
+
+th,
+td {
+  padding: 12px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
